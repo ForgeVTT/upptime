@@ -1,23 +1,34 @@
 owner: forgeVTT 
-repo: upptime 
+repo: upptime
+user-agent: upptime github monitor
+
+status-page:
+  theme: "light"
+
 sites:
-  - name: Forge VTT API Server
+  - name: The Forge VTT API North America 
     url: https://ping.forge-vtt.com/api/ping
-  - name: Forge VTT EU 
+  - name: The Forge VTT API Europe
     url: https://ping.eu.forge-vtt.com/api/ping
-  - name: Forge VTT Australia
-    url: https://ping.au.forge-vtt.com/api/ping
-  - name: Forge VTT Asia
+  - name: The Forge VTT API Asia
     url: https://ping.as.forge-vtt.com/api/ping
+  - name: The Forge VTT API Australia
+    url: https://ping.au.forge-vtt.com/api/ping
 
 status-website:
-  baseUrl: /upptime/
+  #cname: status.forge-vtt.com
+  baseUrl: /status
   logoUrl: https://forge-vtt.com/images/the-forge-logo-48x48.png
-  name: "Forge VTT Global Uptime Dashboard"
-  introTitle: "**Forge VTT** Global Uptime Dashboard Monitoring"
-  introMessage: "**The Forge** is a no-hassle roleplaying gaming platform — a hosting service and so much more — powered by Foundry Virtual Tabletop and our unique integration technologies. [**Fight Goblins, Not Servers!**]"
+  name: "The Forge VTT"
+  introTitle: "**The Forge VTT** Global Uptime Dashboard"
+  introMessage: "**The Forge** is a no-hassle roleplaying gaming platform — a hosting service and so much more — powered by Foundry Virtual Tabletop and our unique integration technologies.\n [**Fight Goblins, Not Servers!**]"
   navbar:
-    - title: Status
-      href: /
     - title: Contact
       href: https://forge-vtt.com/contact
+
+assignees:
+  - ThatGuyAtGithub
+
+status-website: 
+
+  name: Upptime # Status website title
