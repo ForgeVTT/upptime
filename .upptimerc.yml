@@ -25,10 +25,6 @@ status-website:
   navbar:
     - title: Contact
       href: https://forge-vtt.com/contact
-
+      
 assignees:
   - ThatGuyAtGithub
-
-status-website: 
-
-  name: Upptime # Status website title
