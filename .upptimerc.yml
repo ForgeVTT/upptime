@@ -13,7 +13,7 @@ sites:
 status-website:
   baseUrl: /upptime/
   logoUrl: https://forge-vtt.com/images/the-forge-logo-48x48.png
-  name: Forge VTT Global Uptime Dashboard
+  name: "Forge VTT Global Uptime Dashboard"
   introTitle: "**Forge VTT** Global Uptime Dashboard Monitoring"
   introMessage: **The Forge** is a no-hassle roleplaying gaming platform — a hosting service and so much more — powered by Foundry Virtual Tabletop and our unique integration technologies. [**Fight Goblins, Not Servers!**]
   navbar:
