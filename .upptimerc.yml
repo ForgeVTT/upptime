@@ -16,8 +16,8 @@ sites:
     url: https://ping.au.forge-vtt.com/api/ping
 
 status-website:
-  #cname: status.forge-vtt.com
-  baseUrl: /upptime
+  cname: up.forge-vtt.com
+  #baseUrl: /upptime
   logoUrl: https://forge-vtt.com/images/the-forge-logo-48x48.png
   name: "The Forge VTT"
   introTitle: "**The Forge VTT** Global Uptime Dashboard"
