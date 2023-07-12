@@ -19,7 +19,7 @@ sites:
 
 status-website:
   cname: up.forge-vtt.com
-  #baseUrl: /upptime
+  baseUrl: /
   logoUrl: https://forge-vtt.com/images/the-forge-logo-48x48.png
   name: "The Forge VTT"
   introTitle: "**The Forge VTT** Global Uptime Dashboard"
