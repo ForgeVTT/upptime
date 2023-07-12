@@ -2,8 +2,8 @@ owner: forgeVTT
 repo: upptime
 user-agent: upptime github monitor
 
-#status-page:
-#  theme: "ocean"
+status-page:
+  theme: "ocean"
 assignees:
   - ThatGuyAtGithub
 
