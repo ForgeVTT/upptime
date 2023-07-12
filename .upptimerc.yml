@@ -2,8 +2,10 @@ owner: forgeVTT
 repo: upptime
 user-agent: upptime github monitor
 
-status-page:
-  theme: "ocean"
+#status-page:
+#  theme: "ocean"
+assignees:
+  - ThatGuyAtGithub
 
 sites:
   - name: The Forge VTT API North America 
@@ -25,6 +27,3 @@ status-website:
   navbar:
     - title: Contact
       href: https://forge-vtt.com/contact
-      
-assignees:
-  - ThatGuyAtGithub
