@@ -22,18 +22,20 @@
     "url": "https://ping.eu.forge-vtt.com/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/ping.eu.forge-vtt.com.ico",
     "slug": "the-forge-vtt-api-europe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 430,
-    "timeDay": 438,
-    "timeWeek": 371,
-    "timeMonth": 410,
-    "timeYear": 430,
-    "dailyMinutesDown": {}
+    "time": 429,
+    "timeDay": 368,
+    "timeWeek": 362,
+    "timeMonth": 406,
+    "timeYear": 429,
+    "dailyMinutesDown": {
+      "2023-10-18": 0
+    }
   },
   {
     "name": "The Forge VTT API Asia",
