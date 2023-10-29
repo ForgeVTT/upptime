@@ -62,17 +62,19 @@
     "url": "https://ping.au.forge-vtt.com/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/ping.au.forge-vtt.com.ico",
     "slug": "the-forge-vtt-api-australia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 730,
-    "timeDay": 614,
-    "timeWeek": 662,
-    "timeMonth": 621,
-    "timeYear": 730,
-    "dailyMinutesDown": {}
+    "time": 728,
+    "timeDay": 593,
+    "timeWeek": 650,
+    "timeMonth": 620,
+    "timeYear": 728,
+    "dailyMinutesDown": {
+      "2023-10-29": 0
+    }
   }
 ]
