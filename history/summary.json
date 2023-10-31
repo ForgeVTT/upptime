@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 207,
-    "timeDay": 253,
-    "timeWeek": 201,
-    "timeMonth": 216,
-    "timeYear": 207,
+    "time": 206,
+    "timeDay": 114,
+    "timeWeek": 203,
+    "timeMonth": 213,
+    "timeYear": 206,
     "dailyMinutesDown": {
       "2023-10-21": 9
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 650,
-    "timeDay": 580,
-    "timeWeek": 408,
-    "timeMonth": 1194,
-    "timeYear": 650,
+    "time": 647,
+    "timeDay": 374,
+    "timeWeek": 420,
+    "timeMonth": 1169,
+    "timeYear": 647,
     "dailyMinutesDown": {
       "2023-10-18": 7
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 654,
-    "timeDay": 593,
-    "timeWeek": 677,
-    "timeMonth": 665,
-    "timeYear": 654,
+    "time": 655,
+    "timeDay": 778,
+    "timeWeek": 686,
+    "timeMonth": 669,
+    "timeYear": 655,
     "dailyMinutesDown": {}
   },
   {
@@ -64,15 +64,15 @@
     "slug": "the-forge-vtt-api-australia",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.73%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 726,
-    "timeDay": 584,
-    "timeWeek": 635,
+    "time": 725,
+    "timeDay": 645,
+    "timeWeek": 631,
     "timeMonth": 622,
-    "timeYear": 726,
+    "timeYear": 725,
     "dailyMinutesDown": {
       "2023-10-29": 18
     }
