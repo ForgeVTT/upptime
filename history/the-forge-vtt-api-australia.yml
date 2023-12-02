@@ -1,7 +1,7 @@
 url: https://ping.au.forge-vtt.com/api/ping
-status: up
-code: 200
-responseTime: 503
-lastUpdated: 2023-12-01T23:03:55.547Z
+status: down
+code: 503
+responseTime: 672
+lastUpdated: 2023-12-02T02:55:48.202Z
 startTime: Tue Jul 11 2023 22:36:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
