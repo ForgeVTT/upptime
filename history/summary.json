@@ -44,9 +44,9 @@
     "url": "https://ping.as.forge-vtt.com/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/ping.as.forge-vtt.com.ico",
     "slug": "the-forge-vtt-api-asia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,7 +55,9 @@
     "timeWeek": 615,
     "timeMonth": 664,
     "timeYear": 662,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-19": 0
+    }
   },
   {
     "name": "The Forge VTT API Australia",
@@ -65,12 +67,12 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.92%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 654,
     "timeDay": 478,
-    "timeWeek": 508,
+    "timeWeek": 525,
     "timeMonth": 694,
     "timeYear": 654,
     "dailyMinutesDown": {
